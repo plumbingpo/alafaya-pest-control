@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pestcontrolalafaya.com/sitemap.xml
